@@ -1,0 +1,15 @@
+.computer {
+    height: 500px;
+}
+.green {
+    background-color: #3D5249;
+    color: white;
+    padding: 50px;
+
+}
+body,html {
+    font-family: "Red Hat Text", sans-serif !important;
+}
+.top-buffer-20 {
+    margin-top: 20px;
+}
